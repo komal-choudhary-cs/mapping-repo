@@ -14,8 +14,7 @@ public class Arraylist {
 		    System.out.println( "getfruits :" + getFruitbyindex);
 		    
 		  fruits.remove("banana");
-		  fruits.add("apple");
-		  
+		 
 		  fruits.add(2,"pear");
 		  System.out.println(" get fruits after adding pear"+ fruits);
 
