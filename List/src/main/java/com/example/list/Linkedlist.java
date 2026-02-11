@@ -10,7 +10,7 @@ public class Linkedlist {
 		numbers.add(2);
 		numbers.add(3);
 		numbers.add(4);
-		System.out.println("numbers "+ numbers);
+//		System.out.println("numbers "+ numbers);
  System.out.println("numbers "+ numbers);
 		
 int index = numbers.indexOf(3);

@@ -13,7 +13,7 @@ public class Arraylist {
 		    String getFruitbyindex =  fruits.get(2);
 		    System.out.println( "getfruits :" + getFruitbyindex);
 		    
-		  fruits.remove("banana");
+		  fruits.remove("apple");
 		 
 		  fruits.add(2,"pear");
 		  System.out.println(" get fruits after adding pear"+ fruits);
